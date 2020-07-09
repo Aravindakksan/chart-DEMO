@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chartDemo"
+    }
+  },
+  "defaultProject": "chartDemo",
+  "cli": {
+    "analytics": "cca51f4c-6ea0-400d-8788-ed2ddf3a4266"
+  }
 }
